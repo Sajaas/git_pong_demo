@@ -5,3 +5,5 @@ I need to master this so I can be a good team member. GitPong allows for collabo
 
 Are now able to pull back and forth from other repo? using:
 $ git pull user_name master
+
+Sure seems like it! Yay! 
